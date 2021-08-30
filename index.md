@@ -20,6 +20,12 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. With
+4. A
+5. Lot
+6. Of
+7. Bullet
+8. Points
 
 **Bold** and _Italic_ and `Code` text
 
